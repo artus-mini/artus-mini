@@ -1,0 +1,14 @@
+{
+  "name": "minimal-core",
+  "version": "1.0.0",
+  "description": "a fake framework core based on the artus.js",
+  "main": "lib",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "author": "DuanPengfei <duanpengfei1993@gmail.com>",
+  "license": "MIT"
+}

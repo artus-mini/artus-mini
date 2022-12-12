@@ -1,0 +1,13 @@
+{
+  "name": "framework-minimal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+  },
+  "author": "",
+  "license": "MIT"
+}
